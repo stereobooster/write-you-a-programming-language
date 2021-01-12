@@ -1,5 +1,17 @@
 # Write you a programming language
 
+> If you don't know how compilers work, then you don't know how computers work.
+>
+> -- [Steve Yegge](http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html)
+
+> If you can’t explain something in simple terms, you don’t understand it
+>
+> -- [Somebody smart](https://skeptics.stackexchange.com/questions/8742/did-einstein-say-if-you-cant-explain-it-simply-you-dont-understand-it-well-en)
+
+> Dr. Hoenikker used to say that any scientist who couldn't explain to an eight-year-old what he was doing was a charlatan.
+>
+> -- Kurt Vonnegut, Cat's Cradle (said by Dr. Asa Breed; chapter 15)
+
 List of small programming languages that you can implement in a relatively small amount of time for educational purposes.
 
 - [Make a Lisp](https://github.com/kanaka/mal) - Clojure inspired Lisp interpreter implemented in 82 languages (85 different implementations and 105 runtime modes)
@@ -20,10 +32,10 @@ List of small programming languages that you can implement in a relatively small
 
 ## Lisps
 
-- [Building LISP](https://www.lwh.jp/lisp/)
-- [Lisp implementations](https://bernsteinbear.com/blog/lisp/)
-- [(How to Write a (Lisp) Interpreter (in Python))](http://www.norvig.com/lispy.html)
-- [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html)
+- [(How to Write a (Lisp) Interpreter (in Python))](http://www.norvig.com/lispy.html). This page has two purposes: to describe how to implement computer language interpreters in general, and in particular to build an interpreter for most of the Scheme dialect of Lisp using Python 3 as the implementation language.
+- [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html). In a previous essay I showed how to write a simple Lisp interpreter in 90 lines of Python: lis.py. In this essay I make the implementation, lispy.py, three times more complicated, but more complete.
+- [Lisp implementations](https://bernsteinbear.com/blog/lisp/). Compiling a Lisp. Writing a Lisp.
+- [Building LISP](https://www.lwh.jp/lisp/). The best way to understand how something works is to try to build it for yourself. Reading somebody else's explanation might satisfy your curiosity, but without the experience of falling into all the little traps it is difficult to get a feel for why something is designed a certain way.
 - [Build Your Own Lisp](http://buildyourownlisp.com/) - Learn C and build your own programming language in 1000 lines of code!
 
 ## Related
