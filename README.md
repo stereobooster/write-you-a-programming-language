@@ -1,6 +1,6 @@
 # Write you a programming language
 
-List of small programming languages that you can implement in a relatively small amount of time for educational purposes.
+List of small programming languages that you can implement in a relatively small amount of time for educational purposes. Read [my blogpost about this list](https://stereobooster.com/posts/write-you-a-programming-language/).
 
 | Host                                                                                              | Language      | Type                  | Target      | Features                                                                                     |
 | ------------------------------------------------------------------------------------------------- | ------------- | --------------------- | ----------- | -------------------------------------------------------------------------------------------- |
