@@ -41,6 +41,7 @@ List of small programming languages that you can implement in a relatively small
 | [Scheme](http://matt.might.net/articles/metacircular-evaluation-and-first-class-run-time-macros/)  | Scheme       | Interpreter           | -           | First-class (run-time) macros and meta-circular evaluation                                   |
 | [Scheme](http://matt.might.net/articles/compiling-scheme-to-c/)                                    | Scheme       | Compiler              | C           | Compiling Scheme to C with closure conversion                                                |
 | [Scheme](http://matt.might.net/articles/compiling-to-java/)                                        | Scheme       | Compiler              | Java        |                                                                                              |
+| [Scheme](http://matt.might.net/articles/compiling-up-to-lambda-calculus/)                          | Scheme       | Compiler              | Lambda Calc |                                                                                              |
 | [Swift](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)                | Lisp         | Interpreter           | -           |                                                                                              |
 | [Turbo Pascal 4.0](https://compilers.iecc.com/crenshaw/)                                           | LBaC         | Compiler              | x8086       |                                                                                              |
 | [TypeScript](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)                     |              | Compiler              | WebAssembly |                                                                                              |
@@ -82,6 +83,7 @@ Toy languages, or [mini languages](http://www.contrib.andrew.cmu.edu/~plb/papers
 
 ## Courses & Books
 
+- [Utah Compilers, Spring 2011](http://matt.might.net/teaching/compilers/spring-2011/#material)
 - [Programming languages and paradigms lecture](https://github.com/zporky/langs-and-paradigms)
 - [Programming languages](https://opendsa.cs.vt.edu/ODSA/Books/PL/html/index.html)
 - [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) by Abdulaziz Ghuloum. Writing a Compiler in 24 Small Steps.
