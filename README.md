@@ -75,6 +75,10 @@ Toy languages, or [mini languages](http://www.contrib.andrew.cmu.edu/~plb/papers
 | [OCaml](https://plzoo.andrej.com/), menhir                                                   | poly          | Interpreter           | -        | lazy, functional, statically typed, parametric polymorphism, type inference          |
 | [OCaml](https://plzoo.andrej.com/), menhir                                                   | poly          | Interpreter           | -        | lazy, functional, statically typed, parametric polymorphism, type inference          |
 
+See also:
+
+- [A Bestiary of Single-File Implementations of Programming Languages](https://github.com/marcpaq/b1fipl)
+
 ## Type systems
 
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser here. Cubiml is not intended to be used in its own right, but rather to serve as a tutorial for implementing cubic biunification, and therefore has a deliberately minimal feature set.
@@ -94,7 +98,6 @@ Toy languages, or [mini languages](http://www.contrib.andrew.cmu.edu/~plb/papers
 
 - [awesome-compilers: tutorials](https://github.com/aalhour/awesome-compilers#tutorials)
 - [Build your own Programming Language](https://github.com/danistefanovic/build-your-own-x#build-your-own-programming-language)
-- [A Bestiary of Single-File Implementations of Programming Languages](https://github.com/marcpaq/b1fipl)
 - [Programming languages resources](https://bernsteinbear.com/pl-resources/)
 - [nanopass](http://nanopass.org/index.html). Clean Compiler Creation Language
 - [Bril](https://github.com/sampsyo/bril): A Compiler Intermediate Representation for Learning
